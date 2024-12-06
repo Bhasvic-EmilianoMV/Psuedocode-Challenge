@@ -1,0 +1,8 @@
+# ninja log v6
+4	156	7551931357960406	CMakeFiles/Psuedocode_Challenge.dir/main.c.obj	2d83664e028e8b04
+6	98	7551954564169107	CMakeFiles/Psuedocode_Challenge.dir/Question_4.c.obj	139d8a18b3bdb198
+5	115	7551932046241715	CMakeFiles/Psuedocode_Challenge.dir/Question_1.c.obj	a5c6a3cdad5a4b4a
+2	412	7551957363380772	build.ninja	ce35f190868b0ac7
+99	230	7551954565089823	Psuedocode_Challenge.exe	d071ad8f25d925b7
+5	107	7551934856574357	CMakeFiles/Psuedocode_Challenge.dir/Question_2.c.obj	546f620ae59b6623
+5	109	7551944464437272	CMakeFiles/Psuedocode_Challenge.dir/Question_3.c.obj	cb5c16bf4ec330f3

@@ -1,0 +1,3 @@
+C:/Users/e.mojarrovillela24/Downloads/C code/Psuedocode-Challenge/cmake-build-debug/CMakeFiles/Psuedocode_Challenge.dir
+C:/Users/e.mojarrovillela24/Downloads/C code/Psuedocode-Challenge/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/e.mojarrovillela24/Downloads/C code/Psuedocode-Challenge/cmake-build-debug/CMakeFiles/rebuild_cache.dir
